@@ -5,7 +5,7 @@ Created by: Sandeep Chouhan
 Created Using: Python3, IBM qiskit, Streamlit
 
 Installation
-Create a new conda environment
+Create a new TicTakToe environment
 pip install qiskit[visualization]
 pip install streamlit
 How to run the app.py ?
