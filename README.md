@@ -1,6 +1,6 @@
 
 Quantum-Tic-Tac-Toe
-Created by: sudeep choudhary
+Created by: Sandeep Chouhan
 
 Created Using: Python3, IBM qiskit, Streamlit
 
